@@ -29,3 +29,7 @@ Run `replication_multivariate.py `.
 To train networks with different structures:
 
 Run `replication_network_structure.py `.
+
+## Related libraries in the code
+
+qreg: `https://github.com/msangnier/qreg`.
