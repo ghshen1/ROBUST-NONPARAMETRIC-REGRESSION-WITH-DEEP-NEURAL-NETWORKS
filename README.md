@@ -32,6 +32,6 @@ Run `replication_network_structure.py `.
 
 ## Related libraries used in the code
 
-qreg: `https://github.com/msangnier/qreg`.
+qreg: https://github.com/msangnier/qreg.
 
-py-earth: `https://github.com/scikit-learn-contrib/py-earth'.
+py-earth: https://github.com/scikit-learn-contrib/py-earth.
