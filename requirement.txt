@@ -1,0 +1,7 @@
+pip install torch
+pip install numpy
+pip install matplotlib
+pip install qreg
+pip install pyearth
+Pip install gc
+pip install tqdm 
