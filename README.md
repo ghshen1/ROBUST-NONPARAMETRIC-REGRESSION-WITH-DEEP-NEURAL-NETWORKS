@@ -30,6 +30,8 @@ To train networks with different structures:
 
 Run `replication_network_structure.py `.
 
-## Related libraries in the code
+## Related libraries used in the code
 
 qreg: `https://github.com/msangnier/qreg`.
+
+py-earth: `https://github.com/scikit-learn-contrib/py-earth'.
