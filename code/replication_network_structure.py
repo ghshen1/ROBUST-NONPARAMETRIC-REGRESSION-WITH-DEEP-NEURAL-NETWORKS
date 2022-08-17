@@ -49,4 +49,4 @@ print(stat_ls)
         
 print((stat_ls.mean(0)))
 
-print((stat_ls.std(0)/10**(1/2)))
+print((stat_ls.std(0)))
